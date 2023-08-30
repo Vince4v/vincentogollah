@@ -1,6 +1,6 @@
 # Aspiring Foresight Consultant
 
-## Education and Trainings 
+## Education and Training 
 Futures Studies, MA
 
 ## Experience
@@ -8,7 +8,7 @@ Futures Studies, MA
 ## Projects
 
 ## Publications and Contributions
--published
--unpublished
+- published
+- unpublished
 
 ## References

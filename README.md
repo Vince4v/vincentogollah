@@ -1,4 +1,4 @@
-# Aspring Foresight Consultant
+# Aspiring Foresight Consultant
 
 ## Education and Training 
 Futures Studies, MA

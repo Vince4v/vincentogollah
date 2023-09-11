@@ -1,11 +1,11 @@
 # Aspiring Foresight Consultant
 
 ## About Me
-I am an aspiring research consultant with a background in futures studies and foresight. I am seeking opportunities to sharpen my analytical knowledge and skills in consultancy.
+I am an aspiring foresight research consultant with a background in futures studies. I am seeking opportunities to sharpen my analytical knowledge and skills in consultancy.
 
 ## Education and Training 
-- Futures Studies, MA.| University of Turku, Finland | 01 Aug 2021 - 31 Jul 2023
-- Disaster Mitigation and Sustainable Development, Bsc | MMUST, Kenya | 01 Sept 2014 - 14 Dec 2018
+- Futures Studies, MA.                                   | University of Turku, Finland | 01 Aug 2021 - 31 Jul 2023
+- Disaster Mitigation and Sustainable Development, Bsc   | MMUST, Kenya                 | 01 Sept 2014 - 14 Dec 2018
 
 ## Experience
 - Volunteer 2022 FFRC | June 2022

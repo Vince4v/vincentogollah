@@ -23,10 +23,7 @@ Held the position of the head of sustainability at Preloved Coffee. I was  invol
 - Freelance Data Analyst and Writer | Upwork | 2020-2021
 Worked remotely for different clientele as a freelance data analyst and content writer. Daily tasks encompassed virtual communication with the clients to set task objectives and perform data analysis using various tools, such as SPSS, Python, and R-programming depending on the complexity of the work. Besides, formal report writing and presentations were performed.
 
-## Projects
 
 ## Publications and Contributions
-- published
-- unpublished
-
-## References
+- Ogollah, V (2021). A comparison of Futures Studies Methodologies - Horizon Scanning and Fuzzy Cognitive Mapping from the Lens od Disaster Management. (Eds.), Coolest Student's Essays https://www.utupub.fi/bitstream/handle/10024/173072/FFRC-eBook-9_2022.pdf?sequence=1&isAllowed=y
+- Karayel, T & Ogollah, V. (2022). Governance To Boost Crisis Preparedness – What Policy Actions Are Needed For Resilient Cities and Human-Friendly Ai? https://www.utu.fi/sites/default/files/public%3A//media/file/Futuuri-3-2022.pdf, p. 7. University of Turku.

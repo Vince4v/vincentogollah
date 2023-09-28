@@ -1,7 +1,7 @@
 # Aspiring Foresight Consultant
 
 ## About Me
-I am an aspiring foresight research consultant with a background in futures studies. I am seeking opportunities to sharpen my analytical knowledge and skills in consultancy.
+I am an aspiring foresight research consultant and data analyst with a background in futures studies. I am seeking opportunities to sharpen my data analysis skills and knowledge to further my carreer in analytical foresight.
 
 ## Education and Training 
 - Futures Studies, MA.                                   | University of Turku, Finland | 01 Aug 2021 - 31 Jul 2023
